@@ -1,3 +1,3 @@
 # simsiam_aesthetics
 
-run: puyhton model_train.py
+run: pyhton model_train.py
