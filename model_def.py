@@ -35,7 +35,7 @@ class MyModel(nn.Module):
             nn.ReLU(True),
             nn.Dropout(),
 
-            nn.Linear( 512, 5 ),
+            nn.Linear( 512, 12 ),
         )
 
         initialize_weights( self.classifier )
